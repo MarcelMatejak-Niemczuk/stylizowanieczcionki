@@ -1,0 +1,35 @@
+#a{
+    font-size: 40px;
+}
+
+#b{
+    font-family: Arial;
+}
+
+#c{
+    color: aquamarine;
+}
+
+#d{
+    text-transform: uppercase;
+}
+
+#e{
+    font-style: initial;
+}
+
+#f{
+    letter-spacing: 5px;
+}
+
+#g{
+    text-align: center;
+}
+
+#h{
+    text-decoration: solid;
+}
+
+#i{
+    line-height: 25px;
+}
